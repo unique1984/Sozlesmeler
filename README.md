@@ -1,5 +1,33 @@
 ## Sözleşmeler
-Bilişim sektöründe, freelance veya bağımsız olarak çalışan arkadaşların temel haklarını savunma maksadı ile, hukuki olarak geçerliliği olan ve Türkiye'de bilişim sektörü altında çalışan herkesin kullanabileceği sözleşme nüshaları.
+
+*Bilişim sektöründe, freelance veya bağımsız olarak çalışan arkadaşların temel haklarını savunma maksadı ile, hukuki olarak geçerliliği olan ve Türkiye'de bilişim sektörü altında çalışan herkesin kullanabileceği sözleşme nüshaları.*
+
+**Bu depoda oluşturulan ve avukat onayından geçmiş her sözleşme bir web servisine bağlanılarak sadece iş seçimi, süreç seçimi gibi seçimler yapılarak sözleşmenin otonom olarak oluşturulmasının sağlanacağı bir şekle dönüştürülecektir, tabiiki kaynak kodu açık herkesin faydalanabileceği şekilde.**
+
+---
+
+### YAPILACAKLAR
+---
+- Hizmet Sözleşmesi(Genel)
+- Bakım Sözleşmesi(Genel)
+- Bilişim Danışmanlığı Sözleşmesi
+- Araştırma-Geliştirme Sözleşmesi
+- Web Tasarımı-Yazılımı Sözleşmesi
+- Bilgisayar Program-Yazılım geliştirme Sözleşmesi
+- Veri Tabanı Tasarım Sözleşmesi
+- 3D Tasarım Sözleşmesi
+- Grafik Tasarım Sözleşmesi
+- GNU/Linux Sistem Yönetim-Bakım Sözleşmesi (Genel)
+  - Web Sunucu Yönetim Sözleşmesi  
+  - Veri Tabanı Sunucusu Yönetim Sözleşmesi  
+  - DNS(Alan Adı Sunucu) Yönetim Sözleşmesi  
+  - ...
+
+- Gömülü Sistem Tasarımı Sözleşmesi
+- Elektronik Devre Tasarımı Sözleşmesi
+- ...
+
+---
 
 **Taslak Halindedir!**
 
@@ -79,29 +107,6 @@ Olaya; "Benim bir fikrim var yapta zengin olayım" şeklinde bakan kişilerin bi
 Kısaca:
 
 *Bir saat bile çalışmış olsanız dahi sosyal hakkınız ödenebilir, bundan kaçmak isteyen kişi zaten vergi kaçırıyordur!*
-
----
-
-### YAPILACAKLAR
----
-- Hizmet Sözleşmesi(Genel)
-- Bakım Sözleşmesi(Genel)
-- Bilişim Danışmanlığı Sözleşmesi
-- Araştırma-Geliştirme Sözleşmesi
-- Web Tasarımı-Yazılımı Sözleşmesi
-- Bilgisayar Program-Yazılım geliştirme Sözleşmesi
-- Veri Tabanı Tasarım Sözleşmesi
-- 3D Tasarım Sözleşmesi
-- Grafik Tasarım Sözleşmesi
-- GNU/Linux Sistem Yönetim-Bakım Sözleşmesi (Genel)
-  - Web Sunucu Yönetim Sözleşmesi  
-  - Veri Tabanı Sunucusu Yönetim Sözleşmesi  
-  - DNS(Alan Adı Sunucu) Yönetim Sözleşmesi  
-  - ...
-
-- Gömülü Sistem Tasarımı Sözleşmesi
-- Elektronik Devre Tasarımı Sözleşmesi
-- ...
 
 ---
 
