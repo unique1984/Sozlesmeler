@@ -1,5 +1,6 @@
 ## Sözleşmeler
 Bilişim sektöründe, freelance veya bağımsız olarak çalışan arkadaşların temel haklarını savunma maksadı ile, hukuki olarak geçerliliği olan ve Türkiye'de bilişim sektörü altında çalışan herkesin kullanabileceği sözleşme nüshaları.
+**Taslak Halindedir!**
 
 ---
 
