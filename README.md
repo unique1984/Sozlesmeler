@@ -2,9 +2,11 @@
 Bilişim sektöründe, freelance veya bağımsız olarak çalışan arkadaşların temel haklarını savunma maksadı ile, hukuki olarak geçerliliği olan ve Türkiye'de bilişim sektörü altında çalışan herkesin kullanabileceği sözleşme nüshaları.
 **Taslak Halindedir!**
 
+Aşağıda belirtilen ve oluşturulan/oluşturulacak her sözleşme bilişim avukatı aracılığı ile doğrulandıktan sonra versiyonlanacaktır(tag), master branch üzerinde bulunan sözleşmeler taslak halindedir.
+
 ---
 
-**Temel : (5846 Numaralı FiKiR VE SANAT ESERLERİ KANUNU)[http://www.mevzuat.gov.tr/MevzuatMetin/1.3.5846.pdf]**
+**Temel : [5846 Numaralı FiKiR VE SANAT ESERLERİ KANUNU](http://www.mevzuat.gov.tr/MevzuatMetin/1.3.5846.pdf)**
 
 *Bu güne kadar her işimde karşılaştığım sıkıntılar temelde kendi karakterim ile ilgili ve aslında çevremde teknik konuda ileri seviyeleri zorlayan tüm arkadaşların maruz kaldığı sıkıntılar olmakla birlikte işin son raddesinde nedense hep bir dışarı itilme durumu meydana gelmekte. Acaba iş/talep sahibi, sözleşme ve aylık ödemelerinde sadık olursa bu son aşamalarda bu gibi problemler ile karşılaşırmıyım, disiplinsizlik veya iş bilmezlikle suçlanırmıyım, sanırım sözleşmeli şekilde çalışınca cevabını bulacağım.*
 
@@ -50,37 +52,37 @@ her nevi haritalar, planlar, projeler, krokiler, resimler, coğrafya ve topoğra
 
 ### YAPILACAKLAR
 ---
-[ ] Hizmet Sözleşmesi(Genel)
+[-] Hizmet Sözleşmesi(Genel)
 
-[ ] Bakım Sözleşmesi(Genel)
+[-] Bakım Sözleşmesi(Genel)
 
-[ ] Bilişim Danışmanlığı Sözleşmesi
+[-] Bilişim Danışmanlığı Sözleşmesi
 
-[ ] Araştırma-Geliştirme Sözleşmesi
+[-] Araştırma-Geliştirme Sözleşmesi
 
-[ ] Web Tasarımı-Yazılımı Sözleşmesi
+[-] Web Tasarımı-Yazılımı Sözleşmesi
 
-[ ] Bilgisayar Program-Yazılım geliştirme Sözleşmesi
+[-] Bilgisayar Program-Yazılım geliştirme Sözleşmesi
 
-[ ] Veri Tabanı Tasarım Sözleşmesi
+[-] Veri Tabanı Tasarım Sözleşmesi
 
-[ ] 3D Tasarım Sözleşmesi
+[-] 3D Tasarım Sözleşmesi
 
-[ ] Grafik Tasarım Sözleşmesi
+[-] Grafik Tasarım Sözleşmesi
 
-[ ] GNU/Linux Sistem Yönetim-Bakım Sözleşmesi (Genel)
+[-] GNU/Linux Sistem Yönetim-Bakım Sözleşmesi (Genel)
 
-  [ ] Web Sunucu Yönetim Sözleşmesi
+  [-] Web Sunucu Yönetim Sözleşmesi
   
-  [ ] Veri Tabanı Sunucusu Yönetim Sözleşmesi
+  [-] Veri Tabanı Sunucusu Yönetim Sözleşmesi
   
-  [ ] DNS(Alan Adı Sunucu) Yönetim Sözleşmesi
+  [-] DNS(Alan Adı Sunucu) Yönetim Sözleşmesi
   
-  [ ] ...
+  [-] ...
 
-[ ] Gömülü Sistem Tasarımı Sözleşmesi
+[-] Gömülü Sistem Tasarımı Sözleşmesi
 
-[ ] Elektronik Devre Tasarımı Sözleşmesi
+[-] Elektronik Devre Tasarımı Sözleşmesi
 
 ...
 
