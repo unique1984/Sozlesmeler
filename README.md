@@ -6,6 +6,8 @@
 
 ---
 
+**Duyuru: Elimde bitirmem gereken önemli bir iş yüzünden `Kasım ayı` ortasından itibaren 15 yıllık tecrübem ve katkı sağlamak isteyen herkesin tecrübesi ile sözleşmelerin tamamlanmasına girişilecektir. Saygılarımla.**
+
 ### YAPILACAKLAR
 ---
 - Hizmet Sözleşmesi(Genel)
@@ -31,7 +33,7 @@
 
 **Taslak Halindedir!**
 
-Aşağıda belirtilen ve oluşturulan/oluşturulacak her sözleşme **bilişim avukatı/avukatları** aracılığı ile **doğrulandıktan** sonra versiyonlanacaktır(tag), **master branch üzerinde bulunan sözleşmeler taslak halindedir**.
+Yukarıda maddeler halinde belirtilen ve oluşturulan/oluşturulacak her sözleşme **bilişim avukatı/avukatları** aracılığı ile **doğrulandıktan** sonra versiyonlanacaktır(tag), **master branch üzerinde bulunan sözleşmeler taslak halindedir**.
 
 **Herkes Katkı Sağlayabilir**
 
