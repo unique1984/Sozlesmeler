@@ -1,3 +1,7 @@
+**Duyuru: Çok az daha sabır, sırtıma yük olmuş her şeyi kafamdan silmiş durumdayım ve en kısa sürede bu işe girişeceğim.**
+
+---
+
 ## Sözleşmeler
 
 *Bilişim sektöründe, freelance veya bağımsız olarak çalışan arkadaşların temel haklarını savunma maksadı ile, hukuki olarak geçerliliği olan ve Türkiye'de bilişim sektörü altında çalışan herkesin kullanabileceği sözleşme nüshaları.*
@@ -5,8 +9,6 @@
 **Bu depoda oluşturulan ve avukat onayından geçmiş her sözleşme bir web servisine bağlanılarak sadece iş seçimi, süreç seçimi gibi seçimler yapılarak sözleşmenin otonom olarak oluşturulmasının sağlanacağı bir şekle dönüştürülecektir, tabiiki kaynak kodu açık herkesin faydalanabileceği şekilde.**
 
 ---
-
-**Duyuru: Elimde bitirmem gereken önemli bir iş yüzünden `Kasım ayı` ortasından itibaren 15 yıllık tecrübem ve katkı sağlamak isteyen herkesin tecrübesi ile sözleşmelerin tamamlanmasına girişilecektir. Saygılarımla.**
 
 ### YAPILACAKLAR
 ---
