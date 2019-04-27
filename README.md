@@ -1,4 +1,4 @@
-**Duyuru: Çok az daha sabır, sırtıma yük olmuş her şeyi kafamdan silmiş durumdayım ve en kısa sürede bu işe girişeceğim.**
+110 numaralı örnek sözleşme, **İşveren ile Sistem-Yazılım geliştiricisi **arası yapılabilecek sözleşme örneğidir, taslaktır ve tarafımca hazırlandığından öncelikle bir avukat ile görüşülüp genele uyarlanacak bir hale getirmekte fayda var.
 
 ---
 
