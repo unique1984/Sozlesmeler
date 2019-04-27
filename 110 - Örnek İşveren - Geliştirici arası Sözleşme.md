@@ -3,10 +3,15 @@
 **TANIMLAR:**
 
 1) Sözleşmenin tarafları(bundan sonra taraflar olarak anılacaktır):
+
 a) İşveren(bundan sonra şirket olarak anılacaktır.)
+
 b) Sistem-Yazılım geliştirme işini, bu hususta işveren ile karşılıklı şekilde belirlenen görevleri yapacak kişi(bundan sonra çalışan olarak anılacaktır.)
+
 2) Çalışan, çalışanın bağlı olduğu kişi/kişiler, çalışana bağlı olan kişi/kişiler ve görevde yetkili kılınmış kişi/kişiler(bundan sonra ilgili kişiler olarak anılacaktır.)
+
 3) İlgili kişiler haricinde olan her kişi ve kurum(bundan sonra 3. şahıslar olarak anılacaktır.)
+
 4) 5846 kanun numaralı Fikir ve Sanat Eserleri Kanunu(bundan sonra kanun olarak anılacaktır.)
 
 **TARAFLARA İLİŞKİN BİLGİLER:**
