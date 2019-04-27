@@ -1,4 +1,4 @@
-110 numaralı örnek sözleşme, **İşveren ile Sistem-Yazılım geliştiricisi **arası yapılabilecek sözleşme örneğidir, taslaktır ve tarafımca hazırlandığından öncelikle bir avukat ile görüşülüp genele uyarlanacak bir hale getirmekte fayda var.
+110 numaralı örnek sözleşme, **İşveren ile Sistem-Yazılım geliştiricisi** arası yapılabilecek sözleşme örneğidir, taslaktır ve tarafımca hazırlandığından öncelikle bir avukat ile görüşülüp genele uyarlanacak bir hale getirmekte fayda var.
 
 ---
 
