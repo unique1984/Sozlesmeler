@@ -7,7 +7,7 @@ Madde 2 – KONU İşbu sözleşme MÜŞTERİ’nin web sitesi ve hosting hizmet
 
 Madde 3 – MÜŞTERİ’NİN YÜKÜMLÜLÜKLERİ 
 
-3.1 MÜŞTERİ, bahsi geçen tüm işlerin düzenlenmesi ve tasarlanması için gerekli resim ve yazı bazlı dökümanları dijital ortamda kendisi tedarik etmekle yükümlüdür. Kullan
+3.1 MÜŞTERİ, bahsi geçen tüm işlerin düzenlenmesi ve tasarlanması için gerekli resim ve yazı bazlı dökümanları dijital ortamda kendisi tedarik etmekle yükümlüdür. 
 
 3.2 MÜŞTERİ, ...................... tarafından üretilen yazılımlarda kullanılan özel yazılım tekniklerinin telif hakkının ......................’a ait olduğunu, bu yazılımların hiçbir şekilde çoğaltıp, dağıtılmayacağını kabul ve beyan eder. 
 
