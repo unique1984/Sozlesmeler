@@ -7,7 +7,7 @@ Madde 2 – KONU İşbu sözleşme MÜŞTERİ’nin web sitesi ve hosting hizmet
 
 Madde 3 – MÜŞTERİ’NİN YÜKÜMLÜLÜKLERİ 
 
-3.1 MÜŞTERİ, bahsi geçen tüm işlerin düzenlenmesi ve tasarlanması için gerekli resim ve yazı bazlı dökümanları dijital ortamda kendisi tedarik etmekle yükümlüdür. 
+3.1 MÜŞTERİ, bahsi geçen tüm işlerin düzenlenmesi ve tasarlanması için gerekli resim ve yazı bazlı dökümanları dijital ortamda kendisi tedarik etmekle yükümlüdür. Kullan
 
 3.2 MÜŞTERİ, ...................... tarafından üretilen yazılımlarda kullanılan özel yazılım tekniklerinin telif hakkının ......................’a ait olduğunu, bu yazılımların hiçbir şekilde çoğaltıp, dağıtılmayacağını kabul ve beyan eder. 
 
@@ -22,6 +22,8 @@ Madde 4 – ......................’IN YÜKÜMLÜLÜKLERİ
 4.3 ......................, MÜŞTERİ için hazırlanmış tasarımdaki mevcut bölümlerdeki değişiklikler (komple tasarım değişikliği gerektirmeyen düzeltmeler tasarım aşamasındayken) için, gerekli etüdü tamamlandıktan sonra belirleyeceği en kısa sure içinde gerekli düzenleme ve ilaveleri sisteme entegre edeceğini beyan eder. 
 
 4.4 ......................, MÜŞTERİ tarafından talep edilen ek tasarım (tasarım değişikliği gerektiren düzeltmeler ve eklentileri site test aşamasındayken) için, gerekli etüdü tamamlandıktan sonra belirleyeceği en kısa süre içinde gerekli düzenleme ve ilaveleri ek ücret mukabilinde sisteme entegre edeceğini beyan eder. 
+
+4.5 ......................, işin bitişine mutabık yazılım için kullanılan tüm parolaları (Alanadı, Site Barındırma, Veritabanı vb.) yeterli zorlukta değiştirdikten sonra MÜŞTERİ'ye teslim eder. Ödeme bu işlemden sonra yapılacak olup, sistemdeki paroları değiştirmek MÜŞTERİ'nin sorumluluğundadır. Bu işlemden sonra ......................, sistemdeki hiçbir yetkisiz girişten sorumlu tutulamaz.
 
 Madde 5 – HİZMET SÜRESİ VE BEDELİ 
 
