@@ -23,6 +23,8 @@ Madde 4 – ......................’IN YÜKÜMLÜLÜKLERİ
 
 4.4 ......................, MÜŞTERİ tarafından talep edilen ek tasarım (tasarım değişikliği gerektiren düzeltmeler ve eklentileri site test aşamasındayken) için, gerekli etüdü tamamlandıktan sonra belirleyeceği en kısa süre içinde gerekli düzenleme ve ilaveleri ek ücret mukabilinde sisteme entegre edeceğini beyan eder. 
 
+4.5 ......................, işin bitişine mutabık yazılım için kullanılan tüm parolaları (Alanadı, Site Barındırma, Veritabanı vb.) yeterli zorlukta değiştirdikten sonra MÜŞTERİ'ye teslim eder. Ödeme bu işlemden sonra yapılacak olup, sistemdeki paroları değiştirmek MÜŞTERİ'nin sorumluluğundadır. Bu işlemden sonra ......................, sistemdeki hiçbir yetkisiz girişten sorumlu tutulamaz.
+
 Madde 5 – HİZMET SÜRESİ VE BEDELİ 
 
 5.1 İşbu sözleşme ile taahhüt edilen hizmetin süresi …. (…..) gün olarak belirlenmiştir, bu süre, gerekli dökümanların hazırlanıp verilmesi ile başlamaktadır. Süre bitiminde her iki tarafın mutabakatı sonucu hizmet süresi ücreti mukabilinde uzatılabilir. 
